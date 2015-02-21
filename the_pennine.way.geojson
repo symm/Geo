@@ -4,7 +4,9 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Pennine Way"
+            "title": "The Pennine Way",
+            "description": "Steeped in history, this National Trail chases along the mountain tops along the rugged backbone of England and offers 268 miles of the finest upland walking in England. A once in a lifetime experience.",
+            "stroke": "#FF0000"
             },
             "geometry": {
                 "type": "LineString",
