@@ -1,0 +1,923 @@
+{
+    "type":"FeatureCollection",
+    "crs":{
+        "type":"name",
+        "properties":{
+            "name":"urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features":[
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Hampden X3154 RAF",
+                "Description":"Crashed at Rushup Edge 21st December 1940 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.831738885920444,
+                    53.34800555660252,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Blenheim Z5746 RAF",
+                "Description":"Crashed at Ox Stones 26th January 1941 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.582330554408472,
+                    53.35008888906638,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Wellington Z8980 RAF",
+                "Description":"Crashed on Rud Hill 17th July 1942 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.600441666660032,
+                    53.34116111140614,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Vampire XE866 RAF",
+                "Description":"Crashed at Stanage Edge 7th August 1957 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.654319444511501,
+                    53.365602778124,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Bleneim IV Z5870 RAF",
+                "Description":"Crashed at Crowden Tower 3rd July 1941"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.861680553460587,
+                    53.38039722424941,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Mosquito PF395 RAF",
+                "Description":"Crashed at Dean Rocks 22nd October 1944 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.960777777988327,
+                    53.5252111108182,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Dakota G-AHCY BEA",
+                "Description":"Crashed at Wimberry Stones 19th August 1949 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.978883333466442,
+                    53.51892499981836,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Dragon Rapide G-ALBC",
+                "Description":"Crashed at Kinder Scout 30th December 1963 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.846605556857512,
+                    53.39117500132369,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Wellington Z8491 RAF",
+                "Description":"Crashed at White Edge Moor 6th February 1942 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.594927775486525,
+                    53.28900276968502,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Heyford K6875 RAF",
+                "Description":"Crashed at Broadlee Bank Tor 22nd July 1937 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.831641666666667,
+                    53.37227777777778,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Hampden AE381 RAF",
+                "Description":"Crashed at Cluther Rocks 21st January 1942 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.882719444444445,
+                    53.384025,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Harvard FT415 FAA",
+                "Description":"Crashed at Wool Packs 14th January 1952 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.867702777777778,
+                    53.37771666666666,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Anson NL185 RAF",
+                "Description":"Crashed at The Cloughs 23rd November 1945 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.866205555555556,
+                    53.37591666666668,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Fortress B-17G-65 43-37667 USAAF",
+                "Description":"Crashed at Meltham Moor 6th April 1945 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.89425,
+                    53.5845,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Liberator B-24H-20 42-94841 USAAF",
+                "Description":"Crashed at Twizle Head Moss 9th October 1944 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.844605555555556,
+                    53.52781388888889,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Swordfish P4223 FAA",
+                "Description":"Crashed Heyden Head 25th January 1940 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.871730555555556,
+                    53.53773333333334,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Sabre F86E 19234 RCAF",
+                "Description":"Crashed at Black Hill 14th December 1954 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.862775,
+                    53.54221944444444,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Meteors WA971 and VZ518 RAF",
+                "Description":"Crashed at Sliddens Moss 12th April 1951 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.895913888888889,
+                    53.522475,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Lightning P38J 42- 67207 USAAF",
+                "Description":"Crashed  10th May 1944 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.950252777777778,
+                    53.49374444444445,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Hurricanes PZ851,PZ765 and PZ854 RAF",
+                "Description":"Crashed at Didsbury Intake 22nd February 1945 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.945741666666667,
+                    53.48565277777779,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Lancaster PA111 RAF",
+                "Description":"Crashed at Tintwistle Knarr 20th December 1948 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.94875,
+                    53.49014722222222,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Bleheim L1476 RAF",
+                "Description":"Crashed at Sykes Moor 30th January 1939 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.877961111111111,
+                    53.47031944444444,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Defiant N3378 RAF",
+                "Description":"Crashed at Near Bleaklow Stones 29th August 1941 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.844788888888889,
+                    53.47747222222223,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Botha W5103 RAF",
+                "Description":"Crashed on Round Hill 10th December 1941 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.834258333333333,
+                    53.47296388888889,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"L-20A Beaver 26145 USAF",
+                "Description":"Crashed at Bramah Edge 5th December 1956 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.915619444444444,
+                    53.47484722222224,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Meteor RA487 RAF",
+                "Description":"Crashed at Hagg Side 8th December 1950 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.751822222222222,
+                    53.39820833333334,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Consul TF-RPM (Ex Oxford HN471 RAF)",
+                "Description":"Crashed at Crow Stone Edge 12th April 1951 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.737866666666667,
+                    53.46651666666666,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Vampire DH100 RAF",
+                "Description":"Crashed at Moscar Top 25th July 1951 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.672052777777778,
+                    53.40520833333333,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Wellington MF627 RAF",
+                "Description":"Crashed at Ughill 17th October 1952 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.601408333333334,
+                    53.3987,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Barracuda MD 963 RAF",
+                "Description":"Crashed at Redbrook Clough 29th July 1945 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.963738888888889,
+                    53.58903611111111,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Mustang P51D 44-64084 USAAF",
+                "Description":"Crashed  on farmland near Monks Road, Glossop 29th May 1945 (exact co-ords unknown) http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.962996981462382,
+                    53.41315502815921,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Mustang P51D 44-72181 USAAF",
+                "Description":"Crashed at Castleshaw Moor 29th May 1945 (exact co-ords unknown) http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -2.005858333333333,
+                    53.59968333333334,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"DH 82 Tiger Moth RAF",
+                "Description":"Crashed at Chew Brook 12th April 1944 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.948725,
+                    53.509925,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Wellington R1011 RAF",
+                "Description":"Crashed on Birchen Bank Moss 30th January 1943 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.840241666666667,
+                    53.48465833333334,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Anson N9912 RAF",
+                "Description":"Crashed at Whitwell Moor 31st March 1941 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.624791666666667,
+                    53.47608611111112,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Oxford NM683 RAF",
+                "Description":"Crashed on Rushup Edge 4th March 1945 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.825722222222223,
+                    53.34979444444444,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Oxford HN594 RAF",
+                "Description":"Crashed on Brown Knoll 28th December 1945 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.876763888888889,
+                    53.36334166666666,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Anson N9853 RAF (Polish Squadron)",
+                "Description":"Crashed 11th December 1944 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.848127777777778,
+                    53.386675,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Halifax HR727 RAF",
+                "Description":"Crashed on Blackden Edge 5th October 1943 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.808065459532955,
+                    53.38828199355943,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Spitfire P7883 RAF",
+                "Description":"Crashed above Barber Booth on 10th December 1943 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.83775,
+                    53.3471138888889,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Liberator PB4Y-1 63949 USN",
+                "Description":"Crashed at Broken Ground 18th December 1943 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.987936111111111,
+                    53.50993611111112,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Thunderbolt P47C 416297 USAAF",
+                "Description":"Crashed 25th April 1943. http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.858755555555556,
+                    53.35523333333333,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Wellington DV810 RAF",
+                "Description":"Crashed on Broomhead Moor, 9th December 1942. (no exact co-ords available) http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.660791666666667,
+                    53.45352222222222,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Wellington X3348 RCAF",
+                "Description":"Crashed at Blackden Edge on the 26th January 1943 (no exact co-ords available) http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.798611111111111,
+                    53.38852777777777,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Lysander V9403 RAF",
+                "Description":"Crashed 19th August 1941 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.938147222222223,
+                    53.5261,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Wellington W5719 RAF",
+                "Description":"Crashed on Upper Tor 31st July 1941 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.833094444444444,
+                    53.38575555555557,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Defiant N1766 RAF",
+                "Description":"Crashed on Rowlee Pasture, 12th April 1941 http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.7683,
+                    53.41082777777778,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Hampden L4055 RAF",
+                "Description":"Crashed 23rd May 1940. The bomber had returned from an abandoned raid over Germany and had a full payload of bombs and ammunition. The UXB's were detonated by the Bomb Disposal squad. All the wreckage was removed some months later, but the crater and the wall damaged as the aircraft impacted on the hillside can still be seen to this day. http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.852075,
+                    53.5485,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Fi103 V1 flying bomb",
+                "Description":"Launched from the air by an Heinkel and aimed at Manchester but fell short and exploded near Cut Gate on the 24th December 1944. http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.721807693179983,
+                    53.46491631331111,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Oxford LX518 RAF",
+                "Description":"Crashed on Margery Hill 19th October 1943. http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.72855,
+                    53.46647777777779,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Liberator B24-J 42-52003 USAAF",
+                "Description":"Crashed on Mill Hill 11th October 1944. More info on my website: http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.913411111111111,
+                    53.41195555555556,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Superfortress RB-29A SAC",
+                "Description":"Crashed on Higher Shelf Stones 3rd November 1948. More info on my website: http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.8643,
+                    53.45041944444445,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Lancaster Bomber KB993 RCAF",
+                "Description":"Crashed on James's Thorn 18th May 1945. More info on my website: http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.883816666666667,
+                    53.44998333333334,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"C-47 Skytrain (Dakota) 2108982 USAAF",
+                "Description":"Crashed at Shelf Moor 24th July 1945. More info at my website: http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.880672222222223,
+                    53.44940555555557,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"North American Sabres F86 XD707 & XD 730 RAF",
+                "Description":"Two Jets crashed on Ashop Moor 22nd July 1954. More info at my website: http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.886483333333333,
+                    53.41005277777778,
+                    0
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Stirling wreckage area",
+                "Description":"Lines linking the area of wreckage pieces."
+            },
+            "geometry":{
+                "type":"LineString",
+                "coordinates":[
+                    [
+                        -1.697845602116161,
+                        53.45604026112807,
+                        0
+                    ],
+                    [
+                        -1.697575325387888,
+                        53.45637031735479,
+                        0
+                    ],
+                    [
+                        -1.697668949850936,
+                        53.45647857252695,
+                        0
+                    ],
+                    [
+                        -1.697300268989523,
+                        53.45664310183432,
+                        0
+                    ],
+                    [
+                        -1.696909457056975,
+                        53.456800898471,
+                        0
+                    ],
+                    [
+                        -1.696210830911582,
+                        53.45695629315192,
+                        0
+                    ],
+                    [
+                        -1.695910337648585,
+                        53.4570817341375,
+                        0
+                    ],
+                    [
+                        -1.6952309014262,
+                        53.45714575577935,
+                        0
+                    ],
+                    [
+                        -1.695448880627964,
+                        53.45595602979668,
+                        0
+                    ],
+                    [
+                        -1.696718494066389,
+                        53.45631630954989,
+                        0
+                    ],
+                    [
+                        -1.697257221968997,
+                        53.4561068947707,
+                        0
+                    ],
+                    [
+                        -1.69779179350023,
+                        53.4560301299964,
+                        0
+                    ]
+                ]
+            }
+        },
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Stirling Bomber LJ628 RAF",
+                "Description":"Crashed on Upper Commons 21st July 1944 More info at my website: http://www.astrecks.co.uk/peakaircraftwrecks.htm"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.697732627975739,
+                    53.45600763167258,
+                    0
+                ]
+            }
+        }
+    ]
+}
