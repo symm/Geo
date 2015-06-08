@@ -4,9 +4,9 @@
         {
             "type":"Feature",
             "properties":{
-                "Name":"Minninglow Car Park",
+                "title":"Minninglow Car Park",
                 "marker-symbol": "parking",
-                "source": "http://www.peakdistrict.gov.uk/looking-after/projects-and-partnerships/darkskies"
+                "description": "http://www.peakdistrict.gov.uk/looking-after/projects-and-partnerships/darkskies"
             },
             "geometry":{
                 "type":"Point",
@@ -20,9 +20,9 @@
         {
             "type": "Feature",
             "properties":{
-                "Name":"Parsley Hay Car Park",
+                "title":"Parsley Hay Car Park",
                  "marker-symbol": "parking",
-                 "source": "http://www.peakdistrict.gov.uk/looking-after/projects-and-partnerships/darkskies"
+                 "description": "http://www.peakdistrict.gov.uk/looking-after/projects-and-partnerships/darkskies"
             },
             "geometry":{
                 "type":"Point",
@@ -36,9 +36,9 @@
         {
             "type": "Feature",
             "properties":{
-                "Name":"Surprise View",
+                "title":"Surprise View",
                 "marker-symbol": "parking",
-                "source": "http://www.peakdistrict.gov.uk/looking-after/projects-and-partnerships/darkskies"
+                "description": "http://www.peakdistrict.gov.uk/looking-after/projects-and-partnerships/darkskies"
             },
             "geometry":{
                 "type":"Point",
@@ -52,9 +52,9 @@
         {
             "type": "Feature",
             "properties":{
-                "Name":"Wirksworth StarDisc",
+                "title":"Wirksworth StarDisc",
                 "marker-symbol": "star",
-                "source": "http://www.hoegrangeholidays.co.uk/things-to-do/stargazing/"
+                "description": "http://www.hoegrangeholidays.co.uk/things-to-do/stargazing/"
             },
             "geometry":{
                 "type":"Point",
