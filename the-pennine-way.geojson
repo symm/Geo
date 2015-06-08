@@ -1,6 +1,343 @@
+
 {
     "type": "FeatureCollection",
     "features": [
+              {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.791024,
+                    53.376148
+                ]
+            },
+            "properties": {
+                "name": "YHA Edale",
+                "marker-symbol": "lodging",
+                "description": "Planning an activity break? There's plenty of action here \u2013 this activity centre specialises in it. A country house nestled in wooded grounds on the side of the Kinder Scout Plateau, this hostel offers accommodation and fine food for all, including school trips. The hostel is a great location for climbing, caving and activity holidays of all kinds.",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/edale",
+                "address": "Rowland Cote, Nether Booth, Edale, Hope Valley, Derbyshire, S33 7ZH ",
+                "phone": "0845 371 9514 ",
+                "email": "edale@yha.org.uk",
+                "region": "East Midlands",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000280_edale_exterior_001.jpg"
+            }
+        },
+              {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.79904,
+                    53.36964
+                ]
+            },
+            "properties": {
+                "name": "Edale Camping Barn",
+                "marker-symbol": "lodging",
+                "description": "This field barn at Cotefield Farm overlooks the famous Mam Tor and is at the start of the Pennine Way - great for walking holidays. The high moorland of Kinder and the wooded Derwent Valley are also within easy reach. There's a small communal living area with a table and benches. Adjoining the barn, but with external access, is a cooking area and separate toilet.",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/edale-camping-barn",
+                "address": "Cotefield Farm, Ollersbrook, Edale, Hope Valley",
+                "phone": "01433670273",
+                "email": "sallygee52@hotmail.com",
+                "region": "East Midlands",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000782_edale_barn_001.jpg"
+            }
+        },
+              {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.061909,
+                    53.708477
+                ]
+            },
+            "properties": {
+                "name": "YHA Mankinholes",
+                "marker-symbol": "lodging",
+                "description": "This quiet, rural location provides a relaxing base for exploring the areas footpaths, bridleways and packhorse trails. This manor house also offers easy access to major attractions like the Keighley & Worth Valley Steam Railway. ",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/mankinholes",
+                "address": "Mankinholes, Todmorden, Lancashire, OL14 6HR ",
+                "phone": "0845 371 9751 ",
+                "email": "mankinholes@yha.org.uk",
+                "region": "Yorkshire",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000166_mankinholes_exterior_001_0.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.942332,
+                    53.83684
+                ]
+            },
+            "properties": {
+                "name": "YHA Haworth",
+                "marker-symbol": "lodging",
+                "description": "This imposing Victorian mansion overlooking the famous Bront\u00eb village is reminiscent of the tempestuous world created by the sisters. Stay in comfort and explore the nearby South Pennines.",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/haworth",
+                "address": "Longlands Drive, Lees Lane, Haworth, Keighley, West Yorkshire, BD22 8RT",
+                "phone": "0845 371 9520",
+                "email": "haworth@yha.org.uk",
+                "region": "Yorkshire",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000739_haworth_exterior_001.jpg"
+            }
+        },
+              {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.130656,
+                    53.918079
+                ]
+            },
+            "properties": {
+                "name": "YHA Earby",
+                "marker-symbol": "lodging",
+                "description": "YHA Earby is a small cottage close to the Yorkshire Dales, great for countryside breaks. For day trips, the hostel is also within easy reach the Forest of Bowland, Pendle Hill and Skipton. ",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/earby",
+                "address": "9-11 Birch Lane, Earby, Barnoldswick, Lancashire, BB18 6JX",
+                "phone": "0845 371 9016 ",
+                "email": "earby@yha.org.uk",
+                "region": "Yorkshire",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000080_earby_exterior_001.jpg"
+            }
+        },
+              {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.152044,
+                    54.062513
+                ]
+            },
+            "properties": {
+                "name": "YHA Malham",
+                "marker-symbol": "lodging",
+                "description": "Comfortable, purpose-built Pennine Way accommodation in a hostel that welcomes groups on school trips and young children. Set amongst spectacular scenery, an easy walk from the limestone pavements and Malham Tarn it's a great location for activity breaks and well placed for walking, cycling and hiking holidays. There's a safe, secure garden for the kids and family to roam and play. ",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/malham",
+                "address": "Malham, Skipton, North Yorkshire, BD23 4DB",
+                "phone": "0845 371 9529",
+                "email": "malham@yha.org.uk",
+                "region": "Yorkshire",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000162_malham_exterior_001.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.203832,
+                    54.303579
+                ]
+            },
+            "properties": {
+                "name": "YHA Hawes",
+                "marker-symbol": "lodging",
+                "description": "Located on the Pennine Way, this hostel is an ideal base for activity breaks exploring the Yorkshire Dales and Herriott Country. Hawes is a busy market town, famous for rope making and Wensleydale cheese, and there's plenty to do on a weekend break. If you want to explore further, don't miss the numerous natural attractions nearby.",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/hawes",
+                "address": "Lancaster Terrace, Hawes, North Yorkshire, DL8 3LQ",
+                "phone": "0845 371 9120",
+                "email": "hawes@yha.org.uk",
+                "region": "Yorkshire",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000108_hawes_exterior_001.jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.10784,
+                    54.55699
+                ]
+            },
+            "properties": {
+                "name": "YHA Blackton Grange",
+                "marker-symbol": "lodging",
+                "description": "Perfect for a reunion with family or friends. Located high in the beautiful north Pennines, this is a cosy, self-catering home-from-home with a welcoming open fire and surrounded by peace and tranquillity. There\u2019s a fleet of mountain bikes ready to go. ",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/blackton-grange",
+                "address": "Balderhead, Romaldkirk, Barnard Castle, Co Durham, DL12 9UP ",
+                "phone": "01833 650629 ",
+                "email": "baldersdale@yha.org.uk",
+                "region": "North East",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000738_blackton_grange_exterior_001.jpg"
+            }
+        },
+              {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.218251,
+                    54.6692
+                ]
+            },
+            "properties": {
+                "name": "YHA Langdon Beck",
+                "marker-symbol": "lodging",
+                "description": "Langdon Beck is one of our greenest hostels, ideal for eco holidays. The hostel is a rural retreat nestled in the heart of the North Pennines Area of Outstanding Natural Beauty and surrounded by wild heath and hay meadows. Perfect for outdoor activity breaks of all kinds, with fantastic walking holiday and cycling holiday routes, plus great spots for canoeing and fishing holidays all on the doorstep.",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/langdon-beck",
+                "address": "Forest-in-Teesdale, Barnard Castle, Co Durham, DL12 0XN",
+                "phone": "0845 371 9027",
+                "email": "langdonbeck@yha.org.uk",
+                "region": "North East",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000763_langdon_exterior_001.jpg"
+            }
+        },
+              {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.484206,
+                    54.619877
+                ]
+            },
+            "properties": {
+                "name": "YHA Dufton",
+                "marker-symbol": "lodging",
+                "description": "The challenging peaks and fells are all within reach of this fantastic Pennine Way accommodation in Cumbria, perfect for walking holidays and outdoor activity breaks. There are miles of traffic-free lanes for cycling holidays or you can board the famous Settle to Carlisle Railway in the town of Appleby only 3.5 miles away. Everyone's welcome at this four-star licensed hostel - great for a cheap weekend break.",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/dufton",
+                "address": "Dufton, Appleby, Cumbria, CA16 6DB",
+                "phone": "0845 371 9734",
+                "email": "dufton@yha.org.uk",
+                "region": "North West",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000712_dufton_exterior_001.jpg"
+            }
+        },
+              {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.441886,
+                    54.808934
+                ]
+            },
+            "properties": {
+                "name": "YHA Alston",
+                "marker-symbol": "lodging",
+                "description": "This traditional Youth Hostel is on the outskirts of England\u2019s highest market town and is ideally located for the Coast-to-Coast cycle route and the Pennine Way. ",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/alston",
+                "address": "The Firs, Alston, Cumbria, CA9 3RW ",
+                "phone": "01434 381509 ",
+                "email": "alston@yha.org.uk",
+                "region": "North West",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000702_alston_exterior_007.jpg"
+            }
+        },
+              {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.357281,
+                    54.856792
+                ]
+            },
+            "properties": {
+                "name": "YHA Ninebanks",
+                "marker-symbol": "lodging",
+                "description": "These sympathetically refurbished buildings provide great accommodation in a fantastic location. A four-star hostel with Green Tourism Gold Award. Ideal for walking holidays exploring Isaacs Tea Trail or Hadrian\u2019s wall, cycling breaks and small groups. ",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/ninebanks",
+                "address": "Orchard House, Mohope, Ninebanks, Hexham, Northumberland, NE47 8DQ  ",
+                "phone": "0845 371 9533 ",
+                "email": "ninebanks@yha.org.uk",
+                "region": "North East",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000718_ninebanks_exterior_001.jpg"
+            }
+        },
+              {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.388306,
+                    54.996081
+                ]
+            },
+            "properties": {
+                "name": "YHA Once Brewed",
+                "marker-symbol": "lodging",
+                "description": "Here\u2019s the place to be whether you\u2019re on a walking or cycling holiday, a history buff interested in Roman history and archaeological holidays, or just looking for a relaxing break. The hostel accommodation, close to Hadrian's Wall and within the Northumberland National Park, is a good choice for school trips and activity breaks. ",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/once-brewed",
+                "address": "Military Road, Bardon Mill, Northumberland, NE47 7AN  ",
+                "phone": "0845 371 9753 ",
+                "email": "oncebrewed@yha.org.uk",
+                "region": "North East",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000179_once_brewed_exterior_001.jpg"
+            }
+        },
+              {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.252522,
+                    55.143627
+                ]
+            },
+            "properties": {
+                "name": "YHA Bellingham Bunkhouse",
+                "marker-symbol": "lodging",
+                "description": "This self-catering bunkhouse is on a working hill farm at the gateway to Northumberland National Park, so there\u2019s plenty to do nearby. It\u2019s in a central village location, so it\u2019s handy for pubs and shops. ",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/bellingham-bunkhouse",
+                "address": "Demesne Farm, Bellingham, Hexham, Northumberland, NE48 2BS ",
+                "phone": "01434 220258 ",
+                "email": "bellingham@yha.org.uk",
+                "region": "North East",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000749_bellingham_exterior_001.jpg"
+            }
+        },
+              {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3727,
+                    55.3181
+                ]
+            },
+            "properties": {
+                "name": "Byrness",
+                "marker-symbol": "lodging",
+                "description": "This newly modernised property gives you a great base for exploring Northumberland en route to Scotland. Enjoy the peace and quiet in front of a log fire with locally brewed traditional ale and home cooked meals. ",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/byrness",
+                "address": "7 Otterburn Green, Byrness Village, Near Otterburn, Northumberland, NE19 1TS",
+                "phone": "01830 520425",
+                "email": "byrness@yha.org.uk",
+                "region": "North East",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000734_byrness_exterior_001.jpg"
+            }
+        },
+              {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.015297,
+                    55.543716
+                ]
+            },
+            "properties": {
+                "name": "YHA Wooler & Shepherds Huts",
+                "marker-symbol": "lodging",
+                "description": "Artistically situated at the foot of the Cheviot Hills, YHA Wooler is perfect for Northumberland walking holidays and other activity breaks, with its beautiful valleys and sweeping panoramic views. If you enjoy bird-watching, look out for puffins on a trip to the Farne Islands or see what you can spot in the Cheviots - don\u2019t forget your binoculars!\r\n",
+                "source": "http:\/\/www.yha.org.uk\/hostel\/wooler-youth-hostel-shepherds-huts",
+                "address": "30 Cheviot Street, Wooler, Northumberland, NE71 6LW",
+                "phone": "0845 371 9668",
+                "email": "wooler@yha.org.uk",
+                "region": "North East",
+                "image": "http:\/\/www.yha.org.uk\/sites\/default\/files\/imagecache\/small\/000732_wooler_exterior_001.jpg"
+            }
+        },
         {
             "type": "Feature",
             "properties": {
