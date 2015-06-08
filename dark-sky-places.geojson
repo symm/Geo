@@ -1,0 +1,73 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type":"Feature",
+            "properties":{
+                "Name":"Minninglow Car Park",
+                "marker-symbol": "parking",
+                "source": "http://www.peakdistrict.gov.uk/looking-after/projects-and-partnerships/darkskies"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.710557,
+                    53.120203,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":{
+                "Name":"Parsley Hay Car Park",
+                 "marker-symbol": "parking",
+                 "source": "http://www.peakdistrict.gov.uk/looking-after/projects-and-partnerships/darkskies"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.782627,
+                    53.170750,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":{
+                "Name":"Surprise View",
+                "marker-symbol": "parking",
+                "source": "http://www.peakdistrict.gov.uk/looking-after/projects-and-partnerships/darkskies"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.623054,
+                    53.317110,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties":{
+                "Name":"Wirksworth StarDisc",
+                "marker-symbol": "star",
+                "source": "http://www.hoegrangeholidays.co.uk/things-to-do/stargazing/"
+            },
+            "geometry":{
+                "type":"Point",
+                "coordinates":[
+                    -1.577568,
+                    53.085950,
+                    0
+                ]
+            }
+        }
+    ]
+}
+
+
+
+
