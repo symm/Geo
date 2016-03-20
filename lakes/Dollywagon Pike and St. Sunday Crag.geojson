@@ -4,6 +4,90 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "PATHOT",
+                "desc": "PATTERDALE HOTEL"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -2.935102,
+                        54.534821
+                    ],
+                    [
+                        -2.943381,
+                        54.536608
+                    ],
+                    [
+                        -2.97099,
+                        54.527069
+                    ],
+                    [
+                        -2.991231,
+                        54.515554
+                    ],
+                    [
+                        -2.997649,
+                        54.513937
+                    ],
+                    [
+                        -3.003429,
+                        54.511544
+                    ],
+                    [
+                        -3.00379,
+                        54.510507
+                    ],
+                    [
+                        -3.011359,
+                        54.508664
+                    ],
+                    [
+                        -3.012137,
+                        54.506375
+                    ],
+                    [
+                        -3.014637,
+                        54.500054
+                    ],
+                    [
+                        -3.014165,
+                        54.494719
+                    ],
+                    [
+                        -3.009275,
+                        54.494913
+                    ],
+                    [
+                        -3.006645,
+                        54.496598
+                    ],
+                    [
+                        -3.002398,
+                        54.500345
+                    ],
+                    [
+                        -2.988494,
+                        54.504549
+                    ],
+                    [
+                        -2.97573,
+                        54.511995
+                    ],
+                    [
+                        -2.956684,
+                        54.521881
+                    ],
+                    [
+                        -2.94945,
+                        54.533073
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "DOLLY-ST SUNDAY",
                 "desc": "PATTERDALE HOTEL"
             },
@@ -91,276 +175,6 @@
                     "times": [],
                     "heartRates": []
                 }
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "PATHOT",
-                "desc": "PATTERDALE HOTEL",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.935102,
-                    54.534821
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "PATGRB",
-                "desc": "PATT GRIS BRIDGE",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.943381,
-                    54.536608
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "ELMHOW",
-                "desc": "ELMHOW",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.97099,
-                    54.527069
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "GRIBRI",
-                "desc": "GRISEDALE FOOTBR",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.991231,
-                    54.515554
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "RUTHLO",
-                "desc": "RUTHWAITE LODGE",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.997649,
-                    54.513937
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "DOLHOL",
-                "desc": "DOLLYWAG HOLLOW",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.003429,
-                    54.511544
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "DOLTON",
-                "desc": "DOLLYWAG TONGUE",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.00379,
-                    54.510507
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "DOLLYT",
-                "desc": "DOLLYWAGON TOP",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.011359,
-                    54.508664
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "DOLLYP",
-                "desc": "DOLLYWAGON POST",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.012137,
-                    54.506375
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "RAISBH",
-                "desc": "RAISE BECK HAUSE",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.014637,
-                    54.500054
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "SSANDT",
-                "desc": "SEAT SANDAL TOP",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.014165,
-                    54.494719
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "SSANDD",
-                "desc": "SEAT SAND DOGLEG",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.009275,
-                    54.494913
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "GRISDH",
-                "desc": "GRISEDALE HAUSE",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.006645,
-                    54.496598
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "GRIDEP",
-                "desc": "GRISE-DEE H PATH",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -3.002398,
-                    54.500345
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "DEEHAU",
-                "desc": "DEEPDALE HAUSE",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.988494,
-                    54.504549
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "STSUNT",
-                "desc": "ST SUNDAY SUMMIT",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.97573,
-                    54.511995
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "BIRKST",
-                "desc": "BIRKS SUMMIT",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.956684,
-                    54.521881
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "THORNP",
-                "desc": "THORNHOW PATH",
-                "sym": "Waypoint"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -2.94945,
-                    54.533073
-                ]
             }
         }
     ]
